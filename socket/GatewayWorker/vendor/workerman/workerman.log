@@ -1,0 +1,9 @@
+2019-12-22 15:53:41 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2019-12-22 15:53:42 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2019-12-22 15:53:43 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2019-12-22 15:53:44 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2019-12-22 15:53:45 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2019-12-22 15:53:46 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2019-12-22 15:53:47 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2019-12-22 15:53:48 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2019-12-23 13:03:01 pid:1 Worker process terminated with ERROR: E_ERROR "Class 'App\User' not found in F:\xampp\htdocs\blog\socket\GatewayWorker\Applications\YourApp\Events.php on line 39"
